@@ -4,7 +4,8 @@
 <img width="1855" height="843" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1743d541-8769-4db4-a9d7-c1a6ddb921f2" />
 
 
-📌 Projeto: Login Responsivo
+📌 Projeto: Login
+
 
 Este projeto consiste em uma interface de login moderna e totalmente responsiva,
 desenvolvida utilizando HTML, CSS e JavaScript. O objetivo é oferecer uma experiência de usuário intuitiva e agradável
